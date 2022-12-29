@@ -17,4 +17,4 @@ to log in to a Gmail, an app password needs to be created so that the user is ab
 ### Word of the Day Project
 
 The main.py file in this folder needs to be run in the same directory as the wordOTD.py file. This project simply creates a "word of the day"
-message and 
+message and sends it as a text message using the process described above.
