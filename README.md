@@ -3,6 +3,7 @@ Applications that Utilize the Email and SMTP Python Libraries to Send Phone Aler
 
 ## Example:
 
-![iPhonePic 2png](https://user-images.githubusercontent.com/120439586/209910246-e5fc82de-2c06-49fe-a34c-ccb92375353d.png)
+![iPhonePic3](https://user-images.githubusercontent.com/120439586/209910686-1de173bf-a27e-4d35-a674-f1939d858a6c.png)
+
 
 
