@@ -12,3 +12,8 @@ to be filled in by the user. SMTP is used to log in to a certain Gmail and send 
 on any phone as a text message even though it was sent as an email. The "email" module formats the message that needs to be sent. In order
 to log in to a Gmail, an app password needs to be created so that the user is able to log in with the program without two-factor authentication.
 
+## Information on Specific Projects
+
+### Word of the Day Project
+
+text
